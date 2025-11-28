@@ -19,4 +19,4 @@ const login = (req, res) => {
 };
 
 module.exports = { login };
-"ani bdlt choufi"
+"ani bdlt chou"
